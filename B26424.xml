@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mine-adventure, or, An expedient first for composing all differences between partners of the mines late of Sir Carbery Pryse ... proposed by Sir Humphrey Mackworth, perused and settled by eminent and learned counsil in the law and finally established in two indentures made and executed by the present partners and which shall be inrolled in the High Court of Chancery.</title>
+            <author>Mackworth, Humphrey, Sir, 1657-1727.</author>
+         </titleStmt>
+         <extent>Approx. 67KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26424</idno><idno type="EEBO-CITATION">11239149</idno>
+  <idno type="VID">204963</idno>
+  <idno type="EEBO-PROQUEST">2240864923</idno>
+  
+            <idno type="STC">Wing M219</idno>
+            <idno type="OCLC">11239149</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1446:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mine-adventure, or, An expedient first for composing all differences between partners of the mines late of Sir Carbery Pryse ... proposed by Sir Humphrey Mackworth, perused and settled by eminent and learned counsil in the law and finally established in two indentures made and executed by the present partners and which shall be inrolled in the High Court of Chancery.</title>
+                  <author>Mackworth, Humphrey, Sir, 1657-1727.</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Freeman Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pryse, Carbery, --  Sir, d. 1695.</term>
+               <term type="topical_term">Mines and mineral resources --  Wales.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204963:1"/>
+            <p>
+               <hi>THE Mine-Adventure; OR, AN EXPEDIENT,</hi>
+               <list>
+                  <item>
+                     <hi>First,</hi> For Composing all Differences between the Partners of the Mines late of Sir <hi>Carbery Pryse.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> For Establishing a new Method for the Ma<g ref="char:EOLhyphen"/>nagement thereof, and thereby (instead of an Arbitrary Power over the Mines and Stock of all the Partners <hi>in one Person</hi>) settling an equal and fair Constitution for every Person concerned.</item>
+                  <item>
+                     <hi>Thirdly,</hi> For Granting several Charities out of the same to the Poor of every County in <hi>England</hi> and <hi>Wales,</hi> without Prejudice to the Partners.</item>
+                  <item>
+                     <hi>Fourthly,</hi> For Enabling the Partners to Employ a much greater Stock therein, and consequently (in the same propor<g ref="char:EOLhyphen"/>tion) to advance the Gain and Profits thereof.</item>
+                  <item>
+                     <hi>Fifthly,</hi> For Discharging all Debts, Duties, and De<g ref="char:EOLhyphen"/>mands chargeable upon the said Mines, Originally occa<g ref="char:EOLhyphen"/>sioned by several Expensive Law-Suits between the said Sir <hi>Carbery Pryse</hi> and the Patentees of Royal Mines.</item>
+                  <item>
+                     <hi>AND, Sixthly,</hi> For raising a large Stock of <hi>20000 l.</hi> (clear of all manner of Incumbrances) for the working and car<g ref="char:EOLhyphen"/>rying on the said Mineral Works, to the great Advantage of the King and Kingdom.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Proposed by Sir</hi> Humphrey Mackworth, <hi>Perused and Settled by</hi> Emi<g ref="char:EOLhyphen"/>nent and Learned Council <hi>in the</hi> Law, <hi>and finally Established in</hi> Two Indentures, <hi>made and executed by the</hi> present Partners, <hi>and which shall be</hi> In<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lled <hi>in the High Court of</hi> Chancery.</p>
+            <p>LONDON: <hi>Printed by</hi> Freeman Collins, <hi>in the</hi> Old-Baily, <hi>1698.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:204963:2"/>
+            <head>A <hi>DESCRIPTION</hi> of the Silver, Lead and Copper Mines, late of Sir <hi>Carbery Pryse,</hi> lying in <hi>Cardiganshire,</hi> within four Miles of the Navigable River <hi>Dovey,</hi> and from thence a Mile by Water to the Port of <hi>Aberdovey,</hi> where Vessels of Three or Four hundred Tuns may ride with great Safety.</head>
+            <p>
+               <note place="margin">
+                  <hi>See the Book entituled,</hi> An Essay on the Value of the Mines, late of Sir <hi>Carbery</hi> Pryse, <hi>by</hi> Wil<g ref="char:EOLhyphen"/>liam Waller <hi>Gent. chief Steward of the said Mines.</hi>
+               </note>
+               <figure>
+                  <figDesc>stratigraphic map of the mine, labeled with letters which correspond to the following list</figDesc>
+               </figure>
+            </p>
+            <list>
+               <item>
+                  <hi>a</hi> The North-Vein of Lead-Oar, three Foot wide.</item>
+               <item>
+                  <hi>b</hi> The great Lead-Vein, eleven Foot wide.</item>
+               <item>
+                  <hi>c</hi> A Vein of Lead-Oar six Foot wide.</item>
+               <item>
+                  <hi>e</hi> A Vein of Lead-Oar three Foot wide.</item>
+               <item>
+                  <hi>f</hi> A Vein of Green-Copper-Oar, four Foot wide, and yields Three Tun of Copper from Twenty Tun of Oar.</item>
+               <item>
+                  <hi>g</hi> The Bog-Vein, four Foot wide, all Potters Oar.</item>
+               <item>
+                  <hi>h</hi> The Cross Vein of Lead-Oar, three Foot wide.</item>
+               <item>
+                  <hi>i</hi> The Cross Vein of Brown Cop<g ref="char:EOLhyphen"/>per-Oar, five Foot wide, and yields five Tun of Copper out of twenty Tun of Oar.</item>
+               <item>
+                  <hi>k</hi> The first great Shaft and We<g ref="char:EOLhyphen"/>stern Boundary.</item>
+               <item>
+                  <hi>l</hi> The East Level 64 yards deep.</item>
+               <item>
+                  <hi>m</hi> The Eastern Boundary.</item>
+               <item>
+                  <hi>t t t</hi> The places where the Cross Veins meet with the other Veins; which are called by Miners, the <hi>(T)</hi> of the Veins, and are accounted the richest part of them.</item>
+               <item>
+                  <hi>o</hi> The West Level 64 yards deep.</item>
+            </list>
+            <p>Note, <hi>All the said Veins are fix'd and settled betwixt firm and solid Sides, and rise equally near to the Surface of the Ground; and all (except the Cross Veins) lye parallel to the great Vein, descending downwards like the Mine of</hi> Potozi; <hi>but being many in Number, and crossing each other could not be better described together on Paper,</hi>
+            </p>
+            <p>The Scale for the Length four hundred Yards in an Inch; and for the Height of the Mountain eighty Yards in an Inch; and for the Distance between the Veins forty Yards in an Inch.</p>
+            <p>
+               <note place="margin">Eight Veins to<g ref="char:EOLhyphen"/>gether.</note>And thus you see that there are Eight large Veins of <hi>Silver, Lead,</hi> and <hi>Copper</hi> Oar lying near together in one Mountain, which, it's presum'd, cannot be parallel'd in any part of the Christian World.</p>
+            <p>And whereas 'tis not unusual to lay out Five, Six, or Seven thou<g ref="char:EOLhyphen"/>sand pounds to make a Level, Adit, or Sough to Drain the Wate<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from one small Vein of Lead-Oar of two or three Foot thick, here a far le<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Sum of Money will finish both the East and West Levels above-mention<g ref="char:EOLhyphen"/>ed,<note place="margin">One Level serves for six Veins.</note> Sixty four yards deep, which, with a small cross Drift or Cut, will drain the Water from all, or most of these Veins at the same time, the least of which is three Foot wide betwixt its firm sides. <hi>This Conveniency will be valued at a very high Rate by all Persons experienced in the Art of Mining.</hi>
+               <note place="margin">☞</note>
+            </p>
+            <pb n="3" facs="tcp:204963:2"/>
+            <p>But as to the Value of these Mines,<note place="margin">The value of the Mines de<g ref="char:EOLhyphen"/>monstrated by <hi>William Wal<g ref="char:EOLhyphen"/>ler,</hi> Gent. Stew<g ref="char:EOLhyphen"/>ard.</note> it may be observed from a Book, Entituled, <hi>An Essay on the Value of the Mines late of Sir</hi> Carbery Pryse, and writ for the private Satisfaction of the Partners, by <hi>William Waller</hi> Gent. the present Steward thereof, (who is an Ingenious, Ap<g ref="char:EOLhyphen"/>proved, and Experienc'd Artist in the management of Mineral Works, and a Person of a clear, unspotted Reputation, and of no mean Circum<g ref="char:EOLhyphen"/>stances in the World) to what a prodigious Value these Mines might be advanced by a large Stock and prudent Management.</p>
+            <p>And what an advantagious Bargain the Partners had in 1693.<note place="margin">The Advan<g ref="char:EOLhyphen"/>tage the Part<g ref="char:EOLhyphen"/>ners had in <hi>1693.</hi> lost by differences a<g ref="char:EOLhyphen"/>mongst them<g ref="char:EOLhyphen"/>selves.</note> when they bought at 17 <hi>l. per</hi> share, in Case they had not fallen into unhap<g ref="char:EOLhyphen"/>py Differences amongst themselves, but had agreed to raise a Competent Stock, and to carry on the Works to the best Advantage.</p>
+            <p>But (besides the Arguments in that book, to which the Reader is referr'd) it may he farther offer'd to the Consideration of all Persons experienced in the Art of Mining,<note place="margin">That the Mines are better worth <hi>50 l.</hi> per share at this day, then <hi>17 l. per</hi> share in <hi>1693.</hi>
+               </note> and acquainted with the Circumstances of these Mines in the Year 1693. <hi>Whether the said Partners shares may not, with good reason, be computed to be better worth</hi> 50 l. per <hi>share at this day (with all the Grants and other Advantages in the new Settlements of this Expedi<g ref="char:EOLhyphen"/>ent) than they were worth</hi> 17 l. per <hi>share in the Year</hi> 1693?<note place="margin">Reasons offer<g ref="char:EOLhyphen"/>ed,</note> For <hi>then</hi> the Shares were valued and bought upon the Credit of <hi>one</hi> Vein only, (the richness of the five other Lead Veins, or the two Copper Veins, be<g ref="char:EOLhyphen"/>in then not at all discovered, and consequently not in the least consi<g ref="char:EOLhyphen"/>dered in the Purchase) <hi>whereas now</hi> here is five Lead Veins more,<note place="margin">First. From the New Discoveries.</note> valued by the Steward at 60000 <hi>l. per Annum,</hi> and two Copper Veins valued at 36000 <hi>l. per Annum,</hi> and which yield malleable Copper in the first run<g ref="char:EOLhyphen"/>ning; and being large Veins, and very rich in Copper, may at the Le<g ref="char:EOLhyphen"/>vel, which is 64 Yards deep, grow to be of equal value with all the Lead, (this being sold at 10 <hi>l. per</hi> Tun, and Copper at 100 <hi>l. per</hi> Tun) or thereabouts.</p>
+            <p n="2">2dly, <hi>Then</hi> their Adits, Levels, Soughs and Air-shafts were not begun;<note place="margin">By having, Le<g ref="char:EOLhyphen"/>vils, Adits, and Shafts.</note>
+               <hi>now</hi> the East-Level is brought home within Twenty or Thirty Yards of the Mine, and the West-Level is carried up Two hundred and ten yards in length, and many Air-Shafts are sunk, which is a vast Advantage.</p>
+            <p n="3">3dly, <hi>Then</hi> they had no Smelting-Houses, Cupulo's,<note place="margin">By having Smelting-hou<g ref="char:EOLhyphen"/>ses, <hi>&amp;c.</hi> ready built.</note> nor Store-Hou<g ref="char:EOLhyphen"/>ses, or other Buildings necessary for the carrying on the said Works; but <hi>now</hi> they have Smelting-Houses, <hi>&amp;c.</hi> ready for Employment.</p>
+            <p n="4">4thly, <hi>Then</hi> the Mines were charged with great Debts, Salaries,<note place="margin">By being dis<g ref="char:EOLhyphen"/>charged of all Debts, <hi>&amp;c.</hi>
+               </note> and Payments; but <hi>hereby</hi> they are discharged from all manner of Incumbran<g ref="char:EOLhyphen"/>ces.</p>
+            <p n="5">5thly, <hi>Then</hi> the Partners were unexperienced in the Management of Mineral Works; but now they have gained five Years experience:<note place="margin">By having five years experi<g ref="char:EOLhyphen"/>ence.</note>
+               <hi>and the Profits of such Works depend much upon the Method and Conduct of the Ma<g ref="char:EOLhyphen"/>nagers.</hi>
+            </p>
+            <p n="6">6thly, <hi>Then</hi> their Constitutions were Arbitrary;<note place="margin">By having a better Consti<g ref="char:EOLhyphen"/>tution.</note> but <hi>now</hi> fair and equal for every Person concerned: <hi>And this Advantage the Partners value at a high rate; who know the Difficulties they laboured under before, for want of it.</hi>
+            </p>
+            <p n="7">7thly, <hi>Then</hi> the Partners wanted divers Liberties and Priviledges,<note place="margin">By a grant of new Liberties; and being there<g ref="char:EOLhyphen"/>by enabled to employ a great<g ref="char:EOLhyphen"/>er stock.</note> whereby they were both discouraged from raising a large Stock, and de<g ref="char:EOLhyphen"/>prived of an Opportunity of Employing of it in the Works, when raised. But <hi>now</hi> all those Liberties are not only granted to them to en<g ref="char:EOLhyphen"/>able them to employ five times the Stock and Number of Men, but even the raising of the Stock it self is part of the Expedient.</p>
+            <p>And 'tis presumed that it is well known to the World,<note place="margin">The greater the stock, the greater the profit.</note> in the Case of Mineral Works, that if the Proprietors can raise and employ a greater Stock therein, they will proportionably advance the Gain and Profit thereof;
+<pb n="4" facs="tcp:204963:3"/> so that if they double the Stock they double the Profit,<note place="margin">
+                  <hi>See Mr.</hi> Wal<g ref="char:EOLhyphen"/>ler<hi>'s Essay,</hi> pag. 41, 44, 45.</note> and so by Con<g ref="char:EOLhyphen"/>sequence, if they can raise and employ five times the Stock, they will have and receive five times the Profit; for their Gains are greater or less in proportion to the number of Hands they employ; and the number of Hands are greater or less in proportion to the Stock. As for Exam<g ref="char:EOLhyphen"/>ple;<note place="margin">An Example.</note> Suppose every Workman to get half a Tun of Oar in the Week, which when made into Lead, will yield a clear Profit to the Owners of Two pound seven shillings, as is proved in the said printed <hi>Essay, pag.</hi> 8, 9. and was actually done at one of these Mines, which at Fifty Weeks, amounts to Twenty five Tun of Oar, and to One hun<g ref="char:EOLhyphen"/>dred and seventeen pounds ten shillings <hi>per Annum:</hi> And suppose a Stock of Four thousand pounds would employ One hundred and twenty Men, who at the same rate will raise Three thousand Tun of Oar, which amounts to Fourteen thousand and one hundred pounds <hi>per Annum:</hi> If you double your Stock, and consequently employ Two hundred and forty Men, your Profit will be double, <hi>viz.</hi> Twenty eight thousand and two hundred pounds <hi>per Annum;</hi> and by the same reason, if you raise a Stock of Twenty thousand pounds, which is five times Four thousand pounds (the Stock in 1693.<note place="margin">
+                  <hi>Note,</hi> The stock in <hi>1693.</hi> was employed as a dead Stock in making Levels, Smelting Hou<g ref="char:EOLhyphen"/>ses, <hi>&amp;c.</hi>
+               </note>) and there<g ref="char:EOLhyphen"/>by employ Six hundred Men (which is five times One hundred and twen<g ref="char:EOLhyphen"/>ty) your Gain will be five times as great, <hi>viz.</hi> Seventy thousand and five hundred pounds <hi>per Annum;</hi> and so on proportionable to the Stock and Number of Men you can employ in these Mines.</p>
+            <p>But to prove that a much greater Number of Men may <hi>now</hi> be employ<g ref="char:EOLhyphen"/>ed in these Mines,<note place="margin">
+                  <hi>Note,</hi> That a great number of men may be employed with<g ref="char:EOLhyphen"/>out danger of the Mines be<g ref="char:EOLhyphen"/>ing exhausted.</note> when the Levels are brought home, and the Works set in order, without danger of the Mines being exhausted. See the said prin<g ref="char:EOLhyphen"/>ted <hi>Essay;</hi> whereby it appears (amongst several others) that at <hi>Keswick</hi> in <hi>Cumberland</hi> was employed Four thousand Men in one Vein, and at a small Vein Two foot wide in <hi>Arkindale</hi> in <hi>Yorkshire,</hi> Six hundred Men; and that the Mine of <hi>Potozi</hi> (six foot wide) hath lasted above One hun<g ref="char:EOLhyphen"/>dred and fifty years with Twenty thousand Men; and the Mines of <hi>Crem<g ref="char:EOLhyphen"/>nits</hi> in <hi>Germany</hi> Nine hundred and fifty Years. And at <hi>Coomsumblock,</hi> a Silver Mine in <hi>Cardiganshire,</hi> a small Vein not Two foot wide, Four hun<g ref="char:EOLhyphen"/>dred Men were employed by the Patentees of Royal Mines for many years, and by the help of a Water Engine, may be employed again to great Profit.</p>
+            <p n="8">
+               <note place="margin">And by having a Term better in Profit by three years than the former.</note>8thly <hi>and lastly,</hi> In 1693. they could not work for Profit till the Le<g ref="char:EOLhyphen"/>vels were made, and in the carrying up the Levels there could not be employed more Men then was, so that Three years was of necessity to be lost in Dead-work, which reduced the Original Term for Profit, from Twenty two to Nineteen years, or thereabouts; whereas now they will have a compleat Term of Twenty two years, which (with these Levels <hi>&amp;c.</hi>) is Three years better in real Profit then the Original Term; so that in effect the Partners have the Advantages of a Term of Twenty five years, instead of Two and twenty years: And these Three last years by reason of encreasing and multiplying of Hands every year, may be worth as much as Six years in the beginning of the Term.</p>
+            <p>
+               <note place="margin">All these ad<g ref="char:EOLhyphen"/>vantages being very great.</note>All which Advantages being seriously considered, and put together, cannot but have their due weight by all those who are experienced in the Management of Mineral Works.</p>
+            <p>
+               <note place="margin">Least the World should be surprized with so advan<g ref="char:EOLhyphen"/>tagious an offer, Sir <hi>H. M.</hi> first opens.</note>And here it might reasonably be expected that Sir <hi>H. M.</hi> should begin to open his Expedient— But because it cannot be imagin'd but that the World will be surprised to see so rich a Treasure offered to them upon such easie and advantagious Terms as are herein after mentioned, it may not be improper to open first the true Reason that induced Sir <hi>H. M.</hi> to propose, and the Partners to comply with this Undertaking; which was as followeth <hi>(viz.)</hi>
+            </p>
+            <pb n="5" facs="tcp:204963:3"/>
+            <p>Sir <hi>Carbery Pryse</hi> having several Law-Suits with the Patentees of Roy<g ref="char:EOLhyphen"/>al Mines, and having expended considerable Sums of Money therein,<note place="margin">The Reasons which induced the Partners to comply with this Expedient.</note> and not being able to carry on the said Mineral Works to the best Ad<g ref="char:EOLhyphen"/>vantage without some Assistance, thought fit to take in several Partners, who afterwards sold some Shares for Seventeen pounds <hi>per</hi> Share, and covenanted to discharge the Mines from all <hi>Incumbrances,</hi> and out of the Purchase Money to pay the Sum of Four thousand and eight pounds for a dead Stock, to carry up the Levels, sink Air Shafts, and build Smelt<g ref="char:EOLhyphen"/>ing Houses, <hi>&amp;c.</hi>
+            </p>
+            <p>But these things not being fully performed, Differences did arise between the Old and New Partners, the Officers, Stewards, and Miners were left unpaid, and most of them forced to leave the Works. The Partners employed several Persons of Skill and Judgment to view the Mines; all of them reported that the Mines were extraordinary Rich, and wanted nothing but Men and Money to make them Answer their ut<g ref="char:EOLhyphen"/>most Expectation.</p>
+            <p>Thereupon Consultations were held about raising a Quick Stock; but upon Examination of their Deeds and Writings, there appear'd some Defects. And amongst several others,</p>
+            <list>
+               <item>
+                  <hi>First,</hi> To enable them to employ a large Stock, they wanted farther Liberties to be granted to them.</item>
+               <item>
+                  <hi>Secondly,</hi> They wanted their Terme to be renewed.</item>
+               <item>
+                  <hi>Thirdly,</hi> They wanted a better Constitution.</item>
+            </list>
+            <p>For Sir <hi>Carbery Pryse,</hi> and after him Mr. <hi>Edward Pryse,</hi> having a Majority of Votes in themselves, had an Absolute and Arbitrary Power over the Mines and Stock of all the Partners, whereupon they declined the raising of a Stock till those and other Matters could be redressed.</p>
+            <p>But instead of an Accommodation, the Treaties produced greater Differences, till at last the Scene was changed; and Sir <hi>H. M.</hi> ha<g ref="char:EOLhyphen"/>ving purchased for himself and Friends the Interest and Shares of Sir <hi>Carbery Pryse</hi> and Mr. <hi>Edward Pryse,</hi> tho' he bought the same for a valuable Consideration, yet he freely offered to the Partners all, and more then ever was desired by them, provided they would comply with such reasonable Things as should be proposed for the Common Good.</p>
+            <p>Whereupon the Partners, at a General Meeting,<note place="margin">And the Rea<g ref="char:EOLhyphen"/>sons which in<g ref="char:EOLhyphen"/>duced Sir <hi>H.M.</hi> to propose this Expedient.</note> were pleased to refer all Differences to his Consideration: And the said Sir <hi>H.M.</hi> upon Examina<g ref="char:EOLhyphen"/>tion, meeting with greater Difficullies then he imagined; and finding Matters very intricate, and that it was impracticable to compose their Differences, or to raise a Stock in any ordinary and usual way, and ha<g ref="char:EOLhyphen"/>ving several times declared the same at the General Meetings of the Part<g ref="char:EOLhyphen"/>ners, several Proposals were made and offered to their Consideration.</p>
+            <p>The Ways proposed and offered were,<note place="margin">Several ways proposed for raising a Stock.</note>
+            </p>
+            <list>
+               <item>
+                  <hi>First,</hi> To raise a Stock of Twenty thousand pounds by an Assessment of 5 <hi>l. per</hi> Share, to be paid in ready Money.</item>
+               <item>
+                  <hi>Secondly,</hi> By increasing the Number of Shares, and taking in more Part<g ref="char:EOLhyphen"/>ners. Or,</item>
+               <item>
+                  <hi>Thirdly,</hi> By paying a <hi>Premium</hi> to such Partners, or others, who would advance the Stock on the Credit of the Mines.</item>
+            </list>
+            <p>But none of these Ways did agree with the Circumstances the Partners were in, nor would answer the Difficulties they laboured under.<note place="margin">Not approved.</note>
+            </p>
+            <pb n="6" facs="tcp:204963:4"/>
+            <p>
+               <note place="margin">And for what Reasons.</note>For some of them wanted ready Money to comply with the first; o<g ref="char:EOLhyphen"/>thers (complaining that the number of Partners and Shares was too great already) did not approve of the Second.</p>
+            <p>And it was agreed by most, that the third way was of such a Nature, as by Mortgaging and Incumbring the Mines (and consequently drawing the Partners into long Accounts in <hi>Chancery,</hi> and by engaging them to ad<g ref="char:EOLhyphen"/>mit of a Management by particular and private Persons, whose Interest would be distinct from the Common Good of the Partners) would put them in as bad a Condition as they were before. And by none of these Ways any Provision was made for clearing the Debts,<note place="margin">☞</note> or reconciling the Differences, which was absolutely necessary to be done.</p>
+            <p>
+               <note place="margin">What kind of Proposal was to be made to please all Par<g ref="char:EOLhyphen"/>ties.</note>And therefore, in order to carry on the said Mines to the best Ad<g ref="char:EOLhyphen"/>vantage, and unite all the different Interests amongst the Partners, some other way was to be thought of in this Case, whereby the Partners, and all Adventurers might be secure and free from Hazard; the Assess<g ref="char:EOLhyphen"/>ment of 5 <hi>l. per</hi> Share avoided; the number of Partners rather lessened than increased; the Mines discharged from all manner of Debts and In<g ref="char:EOLhyphen"/>cumbrances; all Differences accommodated; no <hi>Premiums;</hi> no Mort<g ref="char:EOLhyphen"/>gages; no Law-Suits; no Arbitrary Power, nor any Person of a di<g ref="char:EOLhyphen"/>stinct Interest to interfere in their Management; but that the Parties con<g ref="char:EOLhyphen"/>cern'd should raise their own Stock, by <hi>An Expedient</hi> safe and easie, and have the entire Management of the Mines themselves, under a-fair and equal Constitution.</p>
+            <p>
+               <note place="margin">The Necessity which obliged Sir <hi>H. M.</hi> to propose this Expedient.</note>Whereupon Sir <hi>H. M.</hi> (though a Person utterly unacquainted with Matters of this Nature, and very unfit for such an Undertaking) yet in a Case of Absolute Necessity, and rather than suffer so rich a Trea<g ref="char:EOLhyphen"/>sure to lye dead and unwrought, to the great Prejudice of himself and Partners, and Loss to the whole Nation; and perceiving that no other Proposal would prevail to Unite so many different Interests) thought fit to acquaint the Partners, that in case all Differences might be composed, and the Mines transferred into Trustees Hands for that purpose, he would propose and open to them an EXPEDIENT for clearing all the Debts wherewith the Mines then stood charged; and for raising the Sum of Twenty thousand pounds for a Stock for carrying on the working of the said Mines, without any <hi>Premium</hi> or Repayment of either Principal or Interest, and for paying and securing to such of the said Partners as should be unwilling to become Adventurers with the said Sir <hi>H. M.</hi> under such Proposals as he should make the Sum of 20 <hi>l.</hi> for every Share they respectively had in the said Mines.</p>
+            <p>
+               <note place="margin">An Apology for making one so common,</note>And if all this can be accomplished by a proper and seasonable Application of an Expedient adapted to this particular Case, tho' grown ever so common and ordinary in its use and practice; if a dan<g ref="char:EOLhyphen"/>gerous and fatal Distemper can be cured by an ordinary and safe Reme<g ref="char:EOLhyphen"/>dy, mixed with other proper Ingredients, 'tis presumed that neither the <hi>Expedient,</hi> nor the <hi>Remedy,</hi> will be rejected for that Reason, by any pru<g ref="char:EOLhyphen"/>dent Person, when the Circumstances of the Case will admit of no o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <note place="margin">because no other would serve.</note>The following <hi>Expedient</hi> therefore being necessary, and the only Means left to dis-intangle the Mines, to raise a Stock, and to settle the Parties concerned upon a better Foundation.</p>
+            <p>
+               <note place="margin">What value to be set on the Mines.</note>The next thing to be considered, in order thereunto, is the present value to be set upon the Mines in this New Undertaking.</p>
+            <p>
+               <note place="margin">That <hi>15000</hi> Tun of Oar may be raised out of one Vein.</note>For Mr. <hi>Waller</hi> in his <hi>Essay</hi> seems to have proved (even to demon<g ref="char:EOLhyphen"/>stration) that 15000 Tun of Oar may be raised with 600 Men out of the Great Vein alone, (when at the Mine of <hi>Potozi,</hi> six foot wide, they raise
+<pb n="7" facs="tcp:204963:4"/> 256250 Tuns of Oar every Year) and when at the ordinary and lesser Veins in the North so many Men have been employed; Nay when he himself hath raised Four thousand pounds worth of Oar,<note place="margin">☜</note> and imployed Fifty four Men in Ten yards space in one of these Veins, Twenty of which Distances will imploy above 1000 Men. And 'tis plain that a proporti<g ref="char:EOLhyphen"/>onable number of Men may be imployed in all the other Veins, both Lead and Copper.</p>
+            <p>From all which it appears (by Calculation) that these Mines, may,<note place="margin">The great an<g ref="char:EOLhyphen"/>nual value of these Mines.</note> with a large Stock, and in a few Years, be advanced to an incredible Pro<g ref="char:EOLhyphen"/>fit, even to 171972 <hi>l.</hi> 19 <hi>s.</hi> 9 <hi>d. per Annum,</hi> as by the said <hi>Essay</hi> (to which the Reader is referr'd) may appear.</p>
+            <p>Yet Sir <hi>H. M.</hi> considering on one side,<note place="margin">Reasons for setting the same at a much lower value in this Adventure.</note> that the Advantages of an Undertaking ought to be reserved for those who continue to Adventure in the Mines for the Publick Good, and not for those who go out and leave the Society. And on the other side, being entirely convinced of the great value of these Mines, and not thinking it either just or honou<g ref="char:EOLhyphen"/>rable to take Advantage of the Necessities of others, or of those acci<g ref="char:EOLhyphen"/>dental Discouragements they have hitherto met withal, hath thought fit to put the Mines (in this Adventure) at as reasonable a value as possibly they could be, to answer the present Necessities, and to establish a small Charity; and also to pay off those Partners whose Circumstances may ob<g ref="char:EOLhyphen"/>lige them to relinquish this Undertaking.</p>
+            <p>That as he is convinced that no Person hereafter, under the present Settlement and Constitution, can (in all Humane probability) be depri<g ref="char:EOLhyphen"/>ved of great Advantages by this Undertaking; so he is not willing that these Mines (which are so able to pay their own Debts) should lye under the Scandal and Curse of having done a Prejudice for the time past to a<g ref="char:EOLhyphen"/>ny Person whatsoever.</p>
+            <p>These Mines therefore are, for the present establishment thereof,<note place="margin">
+                  <hi>Viz.</hi> at <hi>12500</hi> l. <hi>per Annum,</hi> which is less than a twelfth part of the real value proved in the said <hi>Essay.</hi>
+               </note> valued in this Adventure at the rate of Twelve thousand five hundred pounds <hi>per Annum,</hi> and no more, which the least of these eight Veins, with a large Stock, may very reasonably be supposed to Answer, when the Works of my Lord <hi>Darwenwater</hi> in <hi>Auston-Moor</hi> in <hi>Cumberland</hi> (Thirty Miles from the Sea) and about Three foot wide, yielded 12000 <hi>l. per Annum</hi> for a fifth Duty, not many years before the late War.</p>
+            <p>And the raising of no more but 3000 Tun of Lead-Oar a year out of all these mighty Veins, besides the Copper and Silver,<note place="margin">
+                  <hi>3000</hi> Tun of Oar answers this valuation.</note> will more then answer this Valuation, which at Ten years <hi>Purchase</hi> for Twenty two years,<note place="margin">Twenty thou<g ref="char:EOLhyphen"/>sand pounds re<g ref="char:EOLhyphen"/>served for a Stock.</note> amounts to 125000 <hi>l.</hi> whereof 20000 <hi>l.</hi> is reserved as a Stock for the effectual carrying on the said Mineral Works.</p>
+            <p>The Method of this Adventure follows the President of the <hi>Million Adventure</hi> at large, and in the very words thereof,<note place="margin">The Method of this Adventure.</note> with some few par<g ref="char:EOLhyphen"/>ticular Additions adapted to this particular Case, for the Security and Advantage of every Person concerned.</p>
+            <q>This ADVENTURE will be PROFITABLE to the Fortunate,<note place="margin">The Advanta<g ref="char:EOLhyphen"/>ges thereof,</note> AD<g ref="char:EOLhyphen"/>VANTAGIOUS for the Publick Good, CHARITABLE to the Poor, and cannot be UNPROFITABLE to any Person whatsoever.</q>
+            <p>For hereby the Fortunate will not only Purchase the richest Treasure of this kind in these three Kingdoms,<note place="margin">Demonstrated.</note> and thereby gain vast Estates to themselves, with the Aid of other Persons Money, and at a cheap Rate and Value. But, both the Fortunate and Unfortunate are Secured, up<g ref="char:EOLhyphen"/>on
+<pb n="8" facs="tcp:204963:5"/> on a safe Fund, to have all their Money (both Principal and Interest) fully paid back to them, without the least Abatement, Cost or Charge whatsoever; and not without hopes of 800 <hi>l. per Cent.</hi> Profit.</p>
+            <p>And hereby his Majesties Customs, and the Trade and Wealth of <hi>England,</hi> will not only be advanced by the Commodities and Manu<g ref="char:EOLhyphen"/>factures of our own Country, and thereby the Exportation of our Coin and Bullion in great measure prevented. But the Poor that are <hi>unable</hi> will be Relieved; and those that are <hi>able</hi> will have Work provided for them. <hi>See the Settlements at large.</hi>
+            </p>
+            <p>
+               <note place="margin">The Trustees and Managers.</note>THE Trustees in the said Settlement, and Managers for the said Ad<g ref="char:EOLhyphen"/>venture (assisted by two Publick Notaries on Oath) who are pleased to take upon them the Trouble of seeing all things duly performed accord<g ref="char:EOLhyphen"/>ing to the said Settlements, are the present Trustees, Sir <hi>Joseph Herne,</hi> Sir <hi>William Hedges,</hi> Sir <hi>Thomas Vernon, Thomas Pit</hi> Esq; one of the Masters in <hi>Chancery;</hi> and Sir <hi>William Ashhurst,</hi> Sir <hi>John Hubland,</hi> Sir <hi>James Hub<g ref="char:EOLhyphen"/>land,</hi> Sir <hi>Francis Child,</hi> Sir <hi>Thomas Cuddon,</hi> and Sir <hi>Robert Bedingfield.</hi>
+            </p>
+            <p>The Receivers<note place="margin">The Receivers.</note> are Sir <hi>Francis Child,</hi> Sir <hi>John Johnson,</hi> Mr. <hi>Robert Fowle,</hi> Mr. <hi>Richard Hoare,</hi> Mr. <hi>William Atwill,</hi> Mr. <hi>James Hallet,</hi> Mr. <hi>Thomas Mynshall,</hi> Mr. <hi>Richard Smith,</hi> Mr. <hi>Peter Lupart,</hi> Mr. <hi>John Llund,</hi> and Mr. <hi>Coggs</hi> of <hi>London, Goldsmiths;</hi> and such other Person and Persons as shall be ap<g ref="char:EOLhyphen"/>pointed by the said Sir <hi>Humphrey Mackworth.</hi>
+            </p>
+            <p>The manner of Raising this Money, as in the said Settle<g ref="char:EOLhyphen"/>ment directed, is, That 125000 Tickets be delivered out at 20 <hi>s.</hi> a Ticket, whereof 2500 are to be Fortu<g ref="char:EOLhyphen"/>nate Tickets: And</p>
+            <p>That the said 4008 Shares of the said Mines be divided thus:
+<table>
+                  <head>To the first Number drawn, besides the Benefit may come up with it—</head>
+                  <row>
+                     <cell>Fortunate Tickets</cell>
+                     <cell>10 shares—valued at 400 <hi>l.</hi> yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>1 of</cell>
+                     <cell>50 shares—valued at 2000 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>1 of</cell>
+                     <cell>40 shares—valued at 1600 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>10 of</cell>
+                     <cell>20 shares each valued at 800 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>20 of</cell>
+                     <cell>10 shares each valued at 400 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>20 of</cell>
+                     <cell>5 shares each valued at 200 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>40 of</cell>
+                     <cell>4 shares each valued at 160 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>200 of</cell>
+                     <cell>3 shares each valued at 120 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>430 of</cell>
+                     <cell>2 shares each valued at 80 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell>1778 of</cell>
+                     <cell>1 share each valued at 40 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total 2500</cell>
+                     <cell>To the last number'd Ticket drawn 10 shares — valued at 400 yearly.</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">Total of the Shares 4008.</cell>
+                  </row>
+               </table> By the Author of the ESSAY, on the value of the said Mines.</p>
+            <pb n="9" facs="tcp:204963:5"/>
+            <p>
+               <note place="margin">The form of the numbred Tick<g ref="char:EOLhyphen"/>ets.</note>The FORM and MANNER of the <hi>Tickets,</hi> and of the Drawing of the same, is as followeth: First, 125000 numbred Tickets are pre<g ref="char:EOLhyphen"/>pared and bound up in Books, and signed by the <hi>Managers,</hi> and deli<g ref="char:EOLhyphen"/>vered to the <hi>Receivers,</hi> Three of each sort in Rows of the same Num<g ref="char:EOLhyphen"/>ber, in manner following:
+<figure>
+                  <figDesc>three-part shareholding ticket</figDesc>
+                  <figure>
+                     <p>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 100.</p>
+                     <p>Sept. 22. 1698.</p>
+                     <p>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hard Roe <hi>of</hi> London, <hi>Merchant.</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <p>N<seg rend="sup">o</seg> 100.</p>
+                     <p>Sept. 22. 1698.</p>
+                     <p>Richard Roe <hi>of</hi> London, <hi>Merchant.</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <p>N<seg rend="sup">o</seg> 100.</p>
+                     <p>This Ticket entitles the Bearer to One Pound with Interest at 6 <hi>per Cent.</hi> and to a farther Profit at the Rate of 800 <hi>l. per Cent.</hi> and (by Chance) to a great Yearly Sum for 22 Years out of the Profits of the Mines late of Sir <hi>Carbery Pryse.</hi>
+                     </p>
+                  </figure>
+               </figure>
+            </p>
+            <p>NOW put the Case that <hi>Richard Roe</hi> has a mind to lay out 20 <hi>s.</hi>
+               <note place="margin">The manner of taking out.</note> in this <hi>Adventure,</hi> and comes to <hi>John Doe</hi> Goldsmith, (and one of the <hi>Re<g ref="char:EOLhyphen"/>ceivers</hi>) for a Ticket. Thereupon the said <hi>John Doe</hi> cuts out the <hi>owtmost Ticket</hi> on the right Hand numbred (100) Indentwise through the said <hi>oblique Lines;</hi> and <hi>Richard Roe</hi> writes,<note place="margin">The Date and Name to be writ on the corresponding Tickets.</note> or causes to be writ upon the two corresponding Tickets the Day of the Month and Year, his own or some Friends Name, Surname, Quality, and Place of Abode, in Manner and Form as is above-written in the said Corresponding Tickets, and also Endorses the same Date and Name on the back of the Ticket so cut out.</p>
+            <p>AND the like is done for every other Ticket that is taken out: But if Ten Tickets be taken out together, he need but write his Name on the Tickets in the middle Row, and on the uppermost of the two Tickets in the extream Rows. This Ticket, so cut out, is kept safe by the Party.</p>
+            <p>AND a little before the Tickets are drawn, 125000 other Tickets are to be made, whereof 2500 are Benefit or <hi>Fortunate</hi> Tickets, and the rest <hi>blanks</hi> Tickets: The Fortunate are in manner following:
+<figure>
+                  <figDesc>two-part "fortunate" ticket</figDesc>
+                  <figure>
+                     <p>Fifty Shares Of the Mines late of Sir <hi>Car<g ref="char:EOLhyphen"/>bery Pryse.</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <p>Fifty Shares Of the Mines late of Sir <hi>Car<g ref="char:EOLhyphen"/>bery Pryse.</hi>
+                        <note place="margin">The Fortunate Lots.</note>
+                     </p>
+                  </figure>
+               </figure>
+            </p>
+            <p>AND then the said <hi>Numbred Tickets</hi> first above-mentioned in the second or middle Column,<note place="margin">The manner of rolling up, tying and keeping the Tickets.</note> are to be cut Indentwise through the said Oblique Lines, roll'd up and tied with silk or thread by the said <hi>Managers,</hi> in the Presence of all, or as many of the said <hi>Adventurers</hi> as will be then present, (of which due Notice shall be given in print) and put into a <hi>Box</hi> marked with the Letter <hi>[A]</hi> which is to be immediately put into a<g ref="char:EOLhyphen"/>nother strong Box, with seven different Locks and Keys, and kept by as many of the said <hi>Trustees</hi> and <hi>Managers,</hi> and sealed with their Seals.</p>
+            <pb n="10" facs="tcp:204963:6"/>
+            <p>
+               <note place="margin">The Tickets in the innermost Colume remain in the Books for discovering any mistake.</note>And the Tickets in the first or innermost Colums of the said Books, shall remain still in the Books for the discovering any <hi>Mistake</hi> or <hi>Fraud.</hi> And the said <hi>Fortunate Tickets</hi> in the outward Colume shall, in like man<g ref="char:EOLhyphen"/>ner, and presence of all Parties, be rolled, tied, and cut Indentwise, through a fine Skroll or Devise, into another Box marked with the Let<g ref="char:EOLhyphen"/>ter <hi>[B]</hi> and secured in another strong Box, with seven other Locks and Keys, and sealed up, and kept by the said <hi>Managers</hi> as aforesaid.</p>
+            <p>
+               <note place="margin">The manner of drawing the Tickets.</note>AND on the Day of Drawing, (the said two Boxes being produced, and the Tickets and Blanks shaked together) some indifferent Person, ap<g ref="char:EOLhyphen"/>pointed by the <hi>Managers,</hi> shall draw <hi>one Ticket</hi> from that Box where the said <hi>Numbred Tickets</hi> shall be; and one other indifferent Person appoint<g ref="char:EOLhyphen"/>ed and approved as aforesaid, shall presently take out a <hi>Ticket</hi> or <hi>Lot</hi> where the said <hi>fortunate</hi> and <hi>blank Tickets</hi> shall be promiscuously put to<g ref="char:EOLhyphen"/>gether, and <hi>immediately</hi> both the Tickets so drawn shall be opened, and the <hi>Numbred Ticket,</hi>
+               <note place="margin">The date and persons names writ thereon to be named aloud. The filing and entring.</note> with the Date and the Name, and Place of Abode of the Party thereon written, as well as the fortunate or blank Tickets, shall be named aloud; and such numbred Tickets as are drawn with Blanks, shall be put together on one File; and such as are drawn with Fortunate Tickets on another File; and the last shall not only be named aloud, as aforesaid, but also immediately entred by two Publick Nota<g ref="char:EOLhyphen"/>ries on Oath,<note place="margin">Example.</note> in two Books of Parchment, and printed. As for instance in the Case above: He that draws the Numbred Tickets, shall say aloud thus, <hi>Viz. (Number</hi> 100. May 20. 1698. Richard Roe <hi>of</hi> London, <hi>Mer<g ref="char:EOLhyphen"/>chant.</hi>) And he that draws the Fortunate Tickets shall say aloud thus, <hi>viz. (Fifty Shares.</hi>
+               <note place="margin">Manner of En<g ref="char:EOLhyphen"/>try.</note>) Then it shall be immediately entred in the said Books, <hi>That Fifty shares of the Mines Stock,</hi> &amp;c. <hi>late of Sir</hi> Carbery Pryse, <hi>valued at</hi> 2000 <hi>l.</hi> per Annum,<note place="margin">☞</note>
+               <hi>belongs to</hi> Richard Roe <hi>of</hi> London <hi>Merchant, on a Ticket numbred</hi> 100, <hi>and dated</hi> May <hi>the</hi> 20th, 1698.</p>
+            <p>
+               <note place="margin">Fortunate lots to be printed.</note>And every such Entry is to be signed by one or more of the said Ma<g ref="char:EOLhyphen"/>nagers, and read aloud; and so in like manner for all the other Fortu<g ref="char:EOLhyphen"/>nate Tickets; and within the space of Ten days, all such Entries shall be printed, for the Satisfaction of those that shall be absent at the time of drawing the said Indenture.</p>
+            <p>
+               <note place="margin">No Person can be defrauded in this Adven<g ref="char:EOLhyphen"/>ture.</note>And hence it is evident to all Persons of the meanest Capacity, That no Person whatsoever can possibly be deceived or defrauded in this Adventure; and all the trouble of comparing the Tickets, and fitting them to each other, may be avoided; unless two Persons of the same Name, Quality, and Place of Abode shall appear with a Ticket of the same Number and Date, and the same Hand-writing; and in that Case (if it may be supposed) the Tickets must be compared, and the Matter of Fact examined, by which the Impostor will easily be disco<g ref="char:EOLhyphen"/>vered.</p>
+            <p>And by the said numbred Tickets remaining in the said Books, and dated as aforesaid, it will appear how much each Person, whether For<g ref="char:EOLhyphen"/>tunate or Unfortunate, did deposite, and when. All which is to be en<g ref="char:EOLhyphen"/>tred in another Book,<note place="margin">Principal and Interest to be received from the date on the Tickets re<g ref="char:EOLhyphen"/>maining in the Books.</note> for that purpose, in Alphabetical Order, and sign<g ref="char:EOLhyphen"/>ed by the Managers; to the end that every Adventurer may be repaid his Principal and Interest, from the Day of the Month entred on the said Corresponding Tickets, as aforesaid: And upon delivery of all his other Tickets, may receive one Ticket for the whole.</p>
+            <p>And after all the said Fortunate Lots shall happen to be drawn, the rest of the numbred Tickets are also to be publickly drawn,<note place="margin">All the Tick<g ref="char:EOLhyphen"/>ets are to be drawn.</note> filed, and registred in the said two Books, by the said Publick Notaries on Oath, in the Presence of the Managers and Adventurers; that all Persons that are
+<pb n="11" facs="tcp:204963:6"/> absent at the drawing, may resort to the said Books and Files,<note place="margin">That every Ad<g ref="char:EOLhyphen"/>venturer may be satisfied he had a fair Chance.</note> and be ful<g ref="char:EOLhyphen"/>ly satisfied that their Tickets were fairly put into the Box with the rest, and drawn, and that they had a fair Chance for their Money; for in the Books they'l see their Names Registred by Officers on Oath; and on the Files they'l see their own Hand-writing on the Tickets.</p>
+            <p>And by this means,<note place="margin">☜ And thus this new Company will be esta<g ref="char:EOLhyphen"/>blished by the hand of Provi<g ref="char:EOLhyphen"/>dence.</note> as Providence had a more particular Hand in the Discovery of this vast Treasure, so it will hereby have in the distribution of it; and a great Stock being thus raised, and placed in good Hands, there can be no doubt of good Success to the Adventurers, in so great and good an Undertaking for the Benefit of the Poor and of the Publick, as well as of the Particular and Private Adventurers.</p>
+            <div type="part">
+               <head>The MANNER of REPAYMENTS is thus:<note place="margin">The manner of Repayment of Principal and Interest to For<g ref="char:EOLhyphen"/>tunate and Ʋnfortunate.</note>
+               </head>
+               <p>The Fortunate Adventurers are to have the Management of the Mines, according to the New Constitution, who will be most careful thereof for their own future, as well as present Advantage: And they are obliged by the Deed of Settlement, to apply the Profits thereof,</p>
+               <p>
+                  <hi>First,</hi> For the Repaying to each Adventurer, both Fortunate and Un<g ref="char:EOLhyphen"/>fortunate, their respective Interest Money, every second <hi>Wednesday</hi> in <hi>June</hi> yearly, and afterwards for paying their several and respective Prin<g ref="char:EOLhyphen"/>cipal Sums in equal proportion, as the same shall arise out of the Profits of the Premisses.</p>
+               <p>And after such Payments of both Principal and Interest, then the Pro<g ref="char:EOLhyphen"/>fits of the said Mines are to be applied to the sole use of the said Fortu<g ref="char:EOLhyphen"/>nate Adventurers, they paying one fortieth part thereof for the use and maintenance of poor aged Miners or Labourers.</p>
+               <p>But when the Profits of the said Mines clear, above all Charges,<note place="margin">And of having <hi>900</hi> l. for eve<g ref="char:EOLhyphen"/>ry <hi>100</hi> l. be<g ref="char:EOLhyphen"/>sides the for<g ref="char:EOLhyphen"/>tunate Lots.</note> shall exceed the Sum of 20000 <hi>l. per Annum,</hi> then the Fortunate are to receive 20000 <hi>l.</hi> yearly to their own use clear of all Charges, but the O<g ref="char:EOLhyphen"/>verplus thereof above that value, shall be applyed to a second Payment of the Principal Money so adventured as aforesaid, to both Fortunate and Unfortunate; and after Payment thereof, then the Fortunate Adventu<g ref="char:EOLhyphen"/>rers are to receive 40000 <hi>per Annum</hi> to their own use, but when the Pro<g ref="char:EOLhyphen"/>fits increase to the annual value of 40000 <hi>l.</hi> and upwards; then the Over<g ref="char:EOLhyphen"/>plus thereof above 40000 <hi>l.</hi> are to be applyed to a third Payment of the said Principal Money; and after such Payment, then to the Fortunate a<g ref="char:EOLhyphen"/>lone, till the Annual Profits increase 20000 <hi>l.</hi> more, <hi>viz.</hi> to 60000 <hi>l.</hi> and upwards; and then the Overplus thereof, over and above that value, is to be applyed to a fourth Payment of the said Principal Money: And so in like manner the Overplus of the clear Profits above 80000 <hi>l. per An<g ref="char:EOLhyphen"/>num,</hi> is to be applyed to a fifth Payment, and so on, after every 20000 <hi>l. per Annum</hi> Increase thereof, the Overplus of the Profits are to be ap<g ref="char:EOLhyphen"/>plyed to another Payment of the said Principal Money, to both Fortu<g ref="char:EOLhyphen"/>nate and Unfortunate, as aforesaid, till the Profits arise to 160000 <hi>l. per An.</hi>
+               </p>
+               <p>And thus they who have Benefitted Tickets,<note place="margin">The great Ad<g ref="char:EOLhyphen"/>vantage to the Fortunate.</note> may be truly called For<g ref="char:EOLhyphen"/>tunate, when they have all their Money deposited paid back to them, as aforesaid, and so vast a Treasure besides, without any hazard, to<g ref="char:EOLhyphen"/>gether with a Noble Stock of 20000 <hi>l. The Trustees are Intrusted to see all this Duly performed.</hi>
+               </p>
+               <p>And the Unfortunate in this Adventure may, in some respects,<note place="margin">And to the Ʋnfortunate.</note> be said to be fortunate also; that they had an opportunity of placing their Mo<g ref="char:EOLhyphen"/>ney on so good a Fund, where they are secure of Principal and Interest, and a fair probability of 800 <hi>l. per Cent.</hi> Profit.<note place="margin">☜ The Partners will hereby have a greater advantage then was pro<g ref="char:EOLhyphen"/>posed.</note>
+               </p>
+               <p>
+                  <hi>Note,</hi> The Partners by this Adventure will enjoy much greater Ad<g ref="char:EOLhyphen"/>vantages than was promised; for whereas it was proposed that they should either relinquish at 10 <hi>l. per</hi> share in Money, and 10 <hi>l.</hi> on the
+<pb n="12" facs="tcp:204963:7"/> Credit of the Mines, without Interest, and that they should either go out for all, or come in for all their Shares: By this method they have an Election to go out, and come in for as much, or as little as they please. Those that go out for all (if the Adventnture be full) will instead of 10 <hi>l.</hi> have 20 <hi>l. per</hi> share in ready Money. And those that come in for all, will not only have their 20 <hi>l. per</hi> share certain upon the Credit of the Mines,<note place="margin">☞</note> but also Interest for the same, and 800 <hi>l. per Cent.</hi> Profit; <hi>and moreover</hi> 400 <hi>Tickets;</hi> and thereby a fair Chance for as many shares as they had before, (tho' a Fifth part thereof may be of equal value) and those that please may go out for part in Ready Money, and take the rest in Tickets, and on the Credit of the Mines. As for instance; If any Person hath Twenty shares,<note place="margin">An Example.</note> which at 20 <hi>l. per</hi> share is worth 400 <hi>l.</hi> he may go out for Ten shares, and take 200 <hi>l.</hi> in ready Money as soon as the Adventure is drawn, (which is at the rate of 20 <hi>l. per</hi> share for Ten shares, or 10 <hi>l. per</hi> share for Twenty shares.) And for the other Ten shares, he will have 20 <hi>l. per</hi> share on the Credit of the Mines, which is 200 <hi>l.</hi> more, besides Interest at 6 <hi>l. per Cent.</hi> and 1600 <hi>l.</hi> Profit, in eight Payments; which is Eighteen hundred pound for his Two hundred; and also 200 Tickets, and all the Benefits that may arise by the same; and the like in any other proportion whatsoever; all the Partners being left to their own free Choice and Election in this Matter. All which Ad<g ref="char:EOLhyphen"/>vantages are more than was promised, and such as the Proposer hopes will not be unacceptable to the Partners.</p>
+               <p>
+                  <note place="margin">☞ And all the Adventurers will have the same advan<g ref="char:EOLhyphen"/>tage as the Partners.</note>
+                  <hi>Note also,</hi> That the Partners have no Advantage by this Adventure, but what is equally Communicated to every other Adventurer: For if a a Partner has Twenty shares, and takes out the value thereof at 20 <hi>l. per</hi> share in Tickets, which is 400 Tickets, he will have 400 <hi>l.</hi> with In<g ref="char:EOLhyphen"/>terest on the Credit of the Mines, and so will any other Adventurer who takes out 400 Tickets with Money; there being no other difference than this, That a Stranger takes out Tickets with ready Money, and the Part<g ref="char:EOLhyphen"/>ners upon the value of their shares at 20 <hi>l. per</hi> share; but both have their 400 <hi>l.</hi> with Interest equally secured on the Credit of the Mines, and as many Payments as will make his 400 <hi>l.</hi> 3600 <hi>l.</hi> and all the Benefits which may arise by the 400 Tickets besides.</p>
+               <p>
+                  <note place="margin">Whereby it ap<g ref="char:EOLhyphen"/>pears, the Pro<g ref="char:EOLhyphen"/>posal is just to the Old, and advantagious to the New Adventurers.</note>And thus Sir <hi>H. M.</hi> humbly hopes, That as he hath propos'd an <hi>Expe<g ref="char:EOLhyphen"/>dient</hi> fair and just to those Partners, whose Circumstances may oblige them to relinquish their Shares; so it cannot be unprofitable to any other who think fit to become Adventurers with him in this Undertaking; especi<g ref="char:EOLhyphen"/>ally when he considers, that as one Share in the New-River-Water was raised from Five hundred pounds to Four thousand pounds <hi>per</hi> Share, so by the Authour of the <hi>Essay</hi>'s Calculation, one Share in these Mines may, in a few Years, be worth Four hundred pounds; <hi>and sure he is, that no<g ref="char:EOLhyphen"/>thing but the unhappy Differences amongst the Partners could have occasioned such an Overture to the World,</hi>
+                  <note place="margin">☞</note>
+                  <hi>of so rich a Treasure, at so low a Value.</hi>
+               </p>
+               <p>
+                  <note place="margin">The Profit of the Silver.</note>For besides the Profit of the Lead and Copper, when he considers what vast quantities of Oar may be raised, at Five or Six shillings a Tun when the Levels are open, and that Silver also may be extracted out of the Lead-Oar with little waste of the Lead, which is better after it is robb'd of the Silver than before: When he reflects that Sir <hi>Hugh Middleton</hi> gain'd 24000<hi>l. per Annum</hi> with a small Stock,<note place="margin">
+                     <hi>See Sir</hi> John Pettus<hi>'s</hi> Fo<g ref="char:EOLhyphen"/>dine Regale, <hi>pag.</hi> 33.</note> and Mr. <hi>Bushel</hi> cloathed the late Kings whole Army from small Veins in the same County, which he con<g ref="char:EOLhyphen"/>ceives no Person will pretend (taking one thing with another) to com<g ref="char:EOLhyphen"/>pare with these: When the Advantages of such large Veins, lying near the Sea, near a good Harbour for Ships, in a cheap Country, free from all Duties to the Lord, clear of all Incumbrances, <hi>&amp;c.</hi> are considered,
+<pb n="13" facs="tcp:204963:7"/> what may not be expected from this Undertaking, with a large Stock and a good Constitution?</p>
+               <p>But as to the <hi>Silver,</hi> it's well known,<note place="margin">The value of the Silver.</note> That at the Trials at <hi>Westminster-Hall,</hi> different Proofs were made of the Value thereof in Silver, from 60 <hi>l. per</hi> Tun of Metal, to 3 or 4 <hi>l.</hi> a Tun, which occasion'd very great Censure of Perjury on one side or other. But tho' I will not take up<g ref="char:EOLhyphen"/>on me to judge of that Matter, being not present at the Trial, yet from the Experience I have had of Mines, I am charitably inclined to believe it possible, that all those different Oaths may be consistent: For I am inform'd the Proof lay thus; The Extractor swore that he received a parcel of Oar from <hi>[A, B.]</hi> which yielded at the rate of 60 <hi>l. per</hi> Tun;<note place="margin">
+                     <hi>Note,</hi> That the great Vein lies in Ridges, like Planks of a Floor, one of Potters Oar, rich in Lead and poorer in Silver; ano<g ref="char:EOLhyphen"/>ther of harder Oar, poorer in Lead, and rich Silver.</note>
+                  <hi>[A, B.]</hi> swore he had that parcel of Oar out of the Mines of Sir <hi>Carbery Pryse.</hi> Another Extractor swore he had a parcel of Oar from <hi>[C, D.]</hi> which yielded but 4 <hi>l. per</hi> Tun; and <hi>[C, D.]</hi> swore he had that very parcel of Oar from the said Mines. And all this might be true: For it's certain, that in most Veins there is small Ribs and Knots of Oar vastly richer than the other parts thereof, and <hi>[A, B.]</hi> might pick choice pieces for the Patentees, and <hi>[C, D.]</hi> the worst he could meet with near the Surface of the Ground for Sir <hi>Carbery Pryse;</hi> whereby all that Matter seems to be reconciled: And I presume, I may modestly compute between the two Extreams, that these Mines (I mean the hard Oar) besides the Pro<g ref="char:EOLhyphen"/>fit of the Lead, may yield one with another about 14 <hi>l.</hi>
+                  <note place="margin">
+                     <hi>Note,</hi> By the late Act of Royal Mines, the Subject is entituled to <hi>9. l.</hi> for every Tun of Lead-Oar, which yields Silver.</note> in Silver <hi>per</hi> Tun of Metal; which consisting of Two Tun and a quarter of Oar, at 9 <hi>l. per</hi> Tun, and amounting to 20 <hi>l.</hi> and 5 <hi>s.</hi> there is no danger of losing the same by the Act of <hi>Royal Mines:</hi> Tho' I heartily wish, for the Good of his Majesty and these Kingdoms, that when our Levels are brought home at Sixty four Yards deep, it may hereafter prove so rich, as to be worth his Majesties Acceptance at that Rate; which would be a vast Advantage to the King and Kingdom, and yield as much Profit to the Partners as they can reasonably expect or desire.</p>
+               <p>The <hi>Management</hi> of the Mines is <hi>settled</hi> according to the <hi>best Establish<g ref="char:EOLhyphen"/>ments</hi> of that kind in this Kingdom,<note place="margin">The manage<g ref="char:EOLhyphen"/>ment of the Mines, how established?</note> whereby the <hi>Stock</hi> (whether ready Mo<g ref="char:EOLhyphen"/>ney or Bank Bills) is to be secured in an <hi>Iron Chest,</hi> with seven several <hi>Locks</hi> and <hi>Keys,</hi> to be kept by <hi>so many</hi> of the <hi>Committee.</hi> The Works to be car<g ref="char:EOLhyphen"/>ried on to the best Advantage, a <hi>Transfer-Book</hi> established, all <hi>Wrong</hi> and <hi>Oppression</hi> restrained, no one Partner to have above <hi>one Vote,</hi> Suits of <hi>Law</hi> prevented, and the meanest <hi>Adventurer</hi> secured, to have the Money due to him forthwith paid without delay, under the severest Penalty on that Person that shall endeavour to defraud him. <hi>See the last Settlement page</hi> 7.</p>
+               <p>And as to the <hi>Title</hi> of the said <hi>Mines,</hi>
+                  <note place="margin">The Title un<g ref="char:EOLhyphen"/>questionable.</note> the same is not only <hi>per<g ref="char:EOLhyphen"/>used</hi> and <hi>approved</hi> by the said <hi>Counsel,</hi> but will be allowed by all, when 'tis but mentioned to be derived from Sir <hi>Carbery Pryse,</hi> whose <hi>Title</hi> was so well known through all the <hi>City</hi> of <hi>London,</hi> upon the first granting of this Lease, which has been so often approved, and indeed not so much as ever questioned, even by his <hi>Adversaries,</hi> in all those Great and Solemn <hi>Trials</hi> at <hi>Bar</hi> in <hi>Westminster-Hall,</hi> between him and the <hi>Patentees</hi> of <hi>Royal Mines.</hi> And the World is not ignorant that this Gentleman's Concern and Title to these Mines, was the first occasion of that <hi>Act</hi> of <hi>Parliament</hi> concerning <hi>Royal Mines,</hi> which in due time will, in all probability, redound to the great Advantage of his Majesty and <hi>these Kingdoms,</hi> by promoting the <hi>Discovery</hi> of more <hi>Mines,</hi> and <hi>there<g ref="char:EOLhyphen"/>by</hi> advancing the <hi>Trade, Customs, Manufactures, Wealth</hi> and <hi>Strength</hi> thereof.</p>
+               <pb n="14" facs="tcp:204963:8"/>
+               <p>
+                  <note place="margin">Partners obli<g ref="char:EOLhyphen"/>ged to pay their Debts.</note>All Moneys due to Partners any ways indebted, shall upon timely Notice from their Creditors to the Secretary or Accountant, and giving Security to save them harmless for so doing, be retained in the Iron Chest till the Right is determined, and the Partners Indempnified for payment thereof.</p>
+               <p>
+                  <note place="margin">Reasons for a Publick Cha<g ref="char:EOLhyphen"/>rity.</note>And to the end that so great a Treasure may not be Engrossed by pri<g ref="char:EOLhyphen"/>vate Persons, but that the whole Kingdom may receive a Benefit, and not only a General and Publick, but in some measure, a particular and private Advantage, from the same; and that the Impotent and Poor, however dispersed in the several Counties of <hi>England</hi> and <hi>Wales,</hi> may taste of this Treasure, and (tho' unable to take out Tickets for themselves) may yet partake of the Advantages of this Undertaking, and have a fair Chance. for their Subsistance; and that other Per<g ref="char:EOLhyphen"/>sons may, from this small beginning, be encouraged to follow this Example in Matters of like Nature, whereby many Corporations at pre<g ref="char:EOLhyphen"/>sent, and the whole Nation in time, may be eased from the Burthen of the Poors Tax.</p>
+               <p>
+                  <note place="margin">Ten thousand Tickets, with the Benefits thereof granted to charitable uses.</note>Ten thousand Tickets, with the Benefits thereof, are granted to chari<g ref="char:EOLhyphen"/>table Uses; that is to say, Two thousand one hundred Tickets, with the Benefits thereof, are most humbly recommended to be distributed to such Charitable Uses as shall be appointed by the Archbishop of <hi>Canterbury,</hi> the Lord High Chancellor of <hi>England,</hi> the Archbishop of <hi>York,</hi> the Lord President of his Majesties Privy Council, the Lord Privy Seal, and the Lords Commissioners of his Majesties Treasury, the Bishop of <hi>London,</hi> and all the Bishops of the several Dioceses in <hi>England</hi> and <hi>Wales,</hi> the Lord Chief Justice of <hi>England,</hi> and the rest of the Judges of his Majesties Court of <hi>Kings Bench,</hi> the Lord Chief Justice of the <hi>Common Pleas,</hi> and the rest of the Judges of his Majesties Court of <hi>Common Pleas,</hi> the Lord Chief Ba- of <hi>England,</hi> and the rest of the Barons of the Court of <hi>Exchequer</hi> for the time being, and by the Master of the Rolls, and their Successors respectively.</p>
+               <p>And 750 Tickets by the Chief Justice of <hi>Chester,</hi> and the rest of the Judges of <hi>North-Wales</hi> and <hi>South-Wales;</hi> by the Benchers and Barre ters of the four Inns of Courts; by the two Universities of <hi>Oxford</hi> and <hi>Cambridge;</hi> by the President and Fellows of St. <hi>Mary Magdalen Colledge</hi> in <hi>Oxford.</hi>
+               </p>
+               <p>
+                  <note place="margin">See the names of the Corpora<g ref="char:EOLhyphen"/>tions in the last page of the se<g ref="char:EOLhyphen"/>cond Settle<g ref="char:EOLhyphen"/>ment.</note>And 4700 Tickets, with the Benefits thereof, are given and granted to the Poor of the City of <hi>London, Westminster, Bristol,</hi> and <hi>York,</hi> and the Borough of <hi>Southwark,</hi> and Towns of <hi>Shrewsbury, Monmouth</hi> and <hi>Cardiffe,</hi> and to most of the Cities, Chief Burroughs and Towns Corpo<g ref="char:EOLhyphen"/>rate in <hi>England</hi> and <hi>Wales,</hi> as in the Settlements mentioned.</p>
+               <p>And 1200 Tickets with the Benefits thereof, to the Poor of the particu<g ref="char:EOLhyphen"/>lar Towns, Villages and Parishes hereafter mentioned, that is to say, <hi>Lanvihangell-Generglyn,</hi> and <hi>Lanbadernvaure,</hi> in <hi>Cardiganshire; Aberga<g ref="char:EOLhyphen"/>venny, Ʋske, Carlion, Chepstow, Newport</hi> and St. <hi>Melans,</hi> in <hi>Monmouth<g ref="char:EOLhyphen"/>shire; Cowbridge, Margam, Avon, Britton, Neath, Caddoxton</hi> and <hi>Swan<g ref="char:EOLhyphen"/>zy</hi> in <hi>Glamorganshire; Little Deane, Flaxley, Huntley, Newland, Great</hi> and <hi>Little Badminton</hi> in <hi>Glocestershire; Abbots-Betton, Elsmere, Drayton, Oswestrye, Woore, Longstow, Broseley, Bentall, Rockadine, Lyleshall, Cun<g ref="char:EOLhyphen"/>dour, Cund, Bracemeale,</hi> in <hi>Shropshire; Brandford-Forum,</hi> in <hi>Dorsetshire; Brough, Broughschoole, Kirbey-Stephen,</hi> and <hi>School, Orton,</hi> the Chappel upon <hi>Stainsmore,</hi> the School upon <hi>Stainsmore,</hi> the School of <hi>Ravenstendale,</hi> the School at <hi>Winton, Hilton,</hi> and <hi>Murton</hi> in <hi>Westmoreland; Bowes, Wens<g ref="char:EOLhyphen"/>laydale, Rumble-Church, Swayledale,</hi> and <hi>Brampton</hi> in the Parish of <hi>Wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> in <hi>York-shire; Kirklan, Eaden-Hall,</hi> and <hi>Ousby</hi> in <hi>Cumberland; Dilton</hi> in <hi>Wiltshire.</hi>
+               </p>
+               <pb n="15" facs="tcp:204963:8"/>
+               <p>And 1350 Tickets with the Benefits thereof for Augmentation of poor Vicaridges in <hi>Wales,</hi> to <hi>Greenwich</hi> and the several Hospitals in and about <hi>London,</hi> to the Friendly Society of Widows, for the Assistance and Encouragement of such Persons as shall endeavour the Conversion of In<g ref="char:EOLhyphen"/>fidels in the <hi>Indies,</hi> and towards the Relief of Poor Prisoners.</p>
+               <p>All which Tickets are to be taken out <hi>gratis,</hi> and the Benefits thereof in the several Payments above-mentioned; and also in Fortunate Lots; to be from time to time applied to Charitable Uses, by such honourable Per<g ref="char:EOLhyphen"/>sons as aforesaid, and by the Mayors, Aldermen, and Common-Council-Men of the said Cities and Towns Corporate; and by such other Person and Persons, and in such Proportion, Manner and Form as in the Settlements for that purpose made, is at large directed and appointed.</p>
+               <p>And thus Sir <hi>H. M</hi> hopes he hath performed what he undertook,<note place="margin">That the Pro<g ref="char:EOLhyphen"/>posal made by Sir <hi>H.M.</hi> is per<g ref="char:EOLhyphen"/>formed accor<g ref="char:EOLhyphen"/>ding to the true intent and meaning there<g ref="char:EOLhyphen"/>of.</note> and that his Proposal and Expedient will (by this Method) be accomplished to the Satisfaction of all Parties:</p>
+               <p>For <hi>first,</hi> 'Tis conceived that no Person could rationally expect from his Proposal, that any more was intended, than to put the Partners in such a way of Paying their Debts, and of raising a Stock, as should be more easie and safe in every respect, and more convenient to reconcile the different Interests amongst them, and for promoting the Publick Good, than any other Proposal that had been made; and that whatever was proposed by him, was to be done by <hi>an Expedient,</hi>
+                  <note place="margin">1st, By an Ex<g ref="char:EOLhyphen"/>pedient.</note> not by giving so much Money out of his own Pocket, as some (that were not Part<g ref="char:EOLhyphen"/>ners) vainly imagined.</p>
+               <p>But <hi>secondly,</hi> Though he presumes he might, with good reason, ex<g ref="char:EOLhyphen"/>pect to stand in equal Circumstances with all the other Partners, and that it was really more than could be reasonably expected from him, to be<g ref="char:EOLhyphen"/>stow his Labour and Pains in this Undertaking (which has not been in<g ref="char:EOLhyphen"/>considerable) without any the least return to his own particular Advan<g ref="char:EOLhyphen"/>tage; Yet as this Case stands, he has not only done this,<note place="margin">2ly. By the several Grants made to the Partners. ☜</note> but in effect hath raised the Stock, and paid the Debts out of his own Pocket: For if e<g ref="char:EOLhyphen"/>ver the Mines will answer Mr. <hi>Waller</hi>'s Valuation in <hi>his Essay,</hi> it will be in the last Five years of the Term which is granted by the Proposer to the Partners.</p>
+               <p>For as the number of Men imployed may be doubled every Year by sinking more Shafts, and raising more Stages or Stelches upon every Vein, for more Men to work upon, it must needs follow, That the last Five years will yield more Profit then the first Ten; at which Rate, allow<g ref="char:EOLhyphen"/>ing a Rebate for a Reversion after Seventeen years, the value of the last Five years may be cast up by any Accountant to a great deal more Mo<g ref="char:EOLhyphen"/>ney, not only than the Debts and Stock, but than all the Mines themselves are valued at, in this Expedient: And thereby, 'tis plain,<note place="margin">And thereby raising a Fund of Credit suffi<g ref="char:EOLhyphen"/>cient to answer the present oc<g ref="char:EOLhyphen"/>casions.</note> he raises a Fund of Credit, and gives that additional Value to the Partners Shares, which answers all these Occasions, and is the same thing in effect as gi<g ref="char:EOLhyphen"/>ving the Money it self.</p>
+               <p>But, <hi>thirdly,</hi> when all the other Advantages granted to the Partners are also seriously consider'd, and that the Undertaker doth not directly or indirectly gain any manner of Advantage to himself by this Propo<g ref="char:EOLhyphen"/>sal,<note place="margin">Without the least Advan<g ref="char:EOLhyphen"/>tage to him<g ref="char:EOLhyphen"/>self.</note> but what is equally communicated to every Partner and Adventurer whatsoever, and that a Benefit will accrew to the Publick, and to the Poor, by this Method, which would have been lost by any other. It is humbly hop'd that the best part of Mankind will entertain a favoura<g ref="char:EOLhyphen"/>ble Opinion of this Undertaking.</p>
+               <pb n="16" facs="tcp:204963:9"/>
+               <p>
+                  <note place="margin">Subscriptions to be taken from <hi>Sept. 12.</hi> to <hi>Octob. 15.</hi>
+                  </note>And to the end the Mines may speedily be set on Work on the Cre<g ref="char:EOLhyphen"/>dit of this Adventure, and no time be lost whilst Tickets are preparing, Subscriptions for Tickets may be taken from the Twelfth day of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> from any Person or Persons whatsoever, till the Fifteenth day of <hi>October,</hi> in manner and form as in the Indenture Tripartite is set forth.</p>
+               <p>
+                  <note place="margin">Interest from the day of Subscription, paying down a tenth part.</note>And every Person so Subscribing is to have Interest from the Day of his Subscription, paying down one Tenth part of the Sum subscribed, (taking a Receipt for the same) and the Residue on or before the First day of <hi>November</hi> next. The Form of the Receipt is thus:
+<q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="receipt">
+                              <p>I <hi>A. B.</hi> do hereby acknowledge to have received from <hi>C. D.</hi> this present <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> day of <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>
+                                 <hi>1698.</hi> the Sum of (<hi>10</hi> l.) being the Tenth part of one Hundred pounds subscribed by the said <hi>C. D.</hi> for one Hundred Tickets in the Mine-Adventure;<note place="margin">The Receipt for the Sum.</note> which Tickets I do hereby pro<g ref="char:EOLhyphen"/>mise to deliver, or cause to be delivered to the said <hi>C. D.</hi> upon his payment of the further Sum of Ninety pounds to Sir <hi>Humphrey Mackworth,</hi> or his Order, at or before the first day of <hi>November</hi> next.</p>
+                              <closer>
+                                 <signed>Witness my Hand.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <p>
+                  <note place="margin">Subscribers to elect to draw by <hi>1 l.</hi> or <hi>10 l.</hi> Tickets.</note>And in case the whole Sum of 125000 <hi>l.</hi> shall be subscribed for, then the major Number of Subscribers, at a General Meeting to be held, and Summoned at such Time and Place, and in such Manner and Form as shall be appointed by the said Managers, or the major part of them, may elect, whether this Adventure shall consist in the drawing of 125000 Tickets at 1 <hi>l. per</hi> Ticket, or 12500 Tickets at 10 <hi>l. per</hi> Ticket, all things to be proportioned accordingly.</p>
+               <p>See the Form of the Instrument of Subscription, and of the Affidavit taken by the Parties concerned, for the faithful discharge of their Trust in the second Settlement, <hi>pag.</hi> 15, 17.</p>
+               <p>At the end of the Lease the Stock of 20000 <hi>l.</hi> (which is never to be lessened on any Dividend) is to be also divided to each Adventurer, ac<g ref="char:EOLhyphen"/>cording to his respective shares.</p>
+            </div>
+            <div type="summary">
+               <head>UPON THE WHOLE MATTER,</head>
+               <p>Every Person may observe, that here he may (if he please) make a se<g ref="char:EOLhyphen"/>cure Bargain without hazard, being rather an Usurer than an Adven<g ref="char:EOLhyphen"/>turer at the worst hand. But <hi>secondly,</hi> That he hath a fair Chance be<g ref="char:EOLhyphen"/>sides of a Fortunate Lot, and of getting a great Estate to himself and Family. For <hi>thirdly,</hi> Here is a great Stock of 20000 <hi>l.</hi> raised the main Wheel on which all great Uundertakings move. <hi>Fourthly,</hi> A compleat terme for profit of Two and twenty years from the First day of <hi>January</hi> next. <hi>Fifthly,</hi> A secure Method Established before-hand for the Ma<g ref="char:EOLhyphen"/>nagement of the Mines, as well as the Drawing of the Tickets, and do<g ref="char:EOLhyphen"/>ing Justice to all Parties. <hi>Sixthly,</hi> Trustees of Worth and Integrity. <hi>Seventhly,</hi> An undoubted Title. <hi>Eighthly,</hi> A general and particular Charity to the Poor. <hi>Ninthly,</hi> Many great Advantages in these above other Mines, as in the largeness of the Veins, scituation near the Sea, a deep Level, the benefit of Five years work, and of Smelting Houses and Cupulo's, <hi>&amp;c.</hi> all Obstructions of the Works being rectified and pre<g ref="char:EOLhyphen"/>vented. And <hi>tenthly</hi> and lastly, Here is an Opportunity offered of ad<g ref="char:EOLhyphen"/>vancing the <hi>Trade</hi> and <hi>Customs,</hi> preserving the <hi>Coin</hi> and <hi>Bullion,</hi> en<g ref="char:EOLhyphen"/>creasing the <hi>Strength</hi> and <hi>Wealth,</hi> and in short, of promoting the gene<g ref="char:EOLhyphen"/>ral good of his MAJESTY and his KINGDOMS.</p>
+               <p>So that if either private Interest, love to our Country, or Charity to the Poor may be supposed to prevail, this ADVENTURE cannot meet with any <hi>Disappointments.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204963:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
